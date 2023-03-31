@@ -1,0 +1,17 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/css/login.css": "/css/login.css",
+    "/css/admin.css": "/css/admin.css",
+    "/js/admin-app.js": "/js/admin-app.js",
+    "/js/slick/ajax-loader.gif": "/js/slick/ajax-loader.gif",
+    "/js/slick/config.rb": "/js/slick/config.rb",
+    "/js/slick/slick-theme.css": "/js/slick/slick-theme.css",
+    "/js/slick/slick-theme.less": "/js/slick/slick-theme.less",
+    "/js/slick/slick-theme.scss": "/js/slick/slick-theme.scss",
+    "/js/slick/slick.css": "/js/slick/slick.css",
+    "/js/slick/slick.js": "/js/slick/slick.js",
+    "/js/slick/slick.less": "/js/slick/slick.less",
+    "/js/slick/slick.min.js": "/js/slick/slick.min.js",
+    "/js/slick/slick.scss": "/js/slick/slick.scss"
+}
